@@ -1,0 +1,501 @@
+ls
+cd
+brew install autoconf mcrypt
+cd desktop
+cd
+cd desktop
+cd classwork
+cd classwork2
+cd ist
+cd student
+php artisan make:migration create_users_table
+brew install autoconf mcrypt
+php artisan make:migration create_users_table
+brew install autoconf mcrypt
+echo 'export PATH="/usr/local/opt/m4/bin:$PATH"' >> /Users/air/.bash_profile
+php artisan make:migration create_users_table
+brew install autoconf mcrypt
+/Users/air/Documents/myprojects/telusko/venv/bin/python3.9 /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/distlib/jjf.py
+cd /usr/local/mysql
+sudo bin/mysql_secure_installation
+sudo bin/mysql_secure_installation
+sudo /usr/local/mysql/support-files/mysql.server start 
+ps -ef | grep mysql
+kill -9 PID
+ls -laF /usr/local/var/mysql/
+sudo mysql_install_db ...options...
+mysql.server start
+mkdir phpp
+ls
+cd
+mkdir
+mkdir phpp
+cd ~/phpp
+open .
+brew install postgres
+ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
+     alias pg_start="launchctl load ~/Library/LaunchAgents"
+     alias pg_start="launchctl load ~/Library/LaunchAgents"
+     alias pg_stop="launchctl unload ~/Library/LaunchAgents"
+pg_start
+createdb 'student'
+createdb 'student'
+createdb 'student'
+psql
+createuser --interactive --pwprompt
+psql
+psql postgres
+createdb -E utf8 -U CinemaHole -h localhost Movie 
+createdb -E utf8 -U air -h localhost Movie 
+su - postgres
+su - postgres
+CREATE USER jiradbuser WITH PASSWORD 'yourPassword';
+cd Desktop/
+cdcl
+cd cl
+cd classwork2
+ls
+cd
+ls
+cd Desktop/
+ls
+/Users/air/.bitnami/stackman/machines/xampp/volumes/root/xampp ; exit;
+/Library/PostgreSQL/14/scripts/runpsql.sh; exit
+/Library/PostgreSQL/14/scripts/runpsql.sh; exit
+/Library/PostgreSQL/14/scripts/runpsql.sh; exit
+/Library/PostgreSQL/14/scripts/runpsql.sh; exit
+php -v
+sudo -u postgres psql
+php artisan migrate
+php artisan migrate
+php artisan migrate
+php artisan migrate
+php artisan migrate
+sudo apt-get install nano
+xcode-select --install
+sudo apt-get install nano
+xcode-select --install
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+sudo apt-get install nano
+php artisan migrate
+php artisan serve
+php artisan serve
+php artisan migrate
+php artisan migrate
+cd
+cd documents
+cd classwork
+composer create-project laravel/laravel student_mgt-system_v2
+cd student_mgt_system_v2
+cd student_mgt-system_v2
+code .
+php artisan serve
+php artisan ui tailwindcss --auth
+composer require laravel/ui
+php artisan ui user --auth
+php artisan ui tailwindcss --auth
+php artisan ui vue --auth
+npm install
+kill -9 3306
+php artisan serve
+python -v
+python manage.py runserver
+ls
+cd projectsapp/
+python manage.py runserver
+python manage.py runserver
+$ python3 -m venv djangoenv  
+python3 -m venv env  
+$ source djangoenv/bin/activate  
+source env/bin/activate  
+python3 manage.py runserver
+python3 -m pip install Django
+python3 manage.py runserver
+pip install Django
+python -m pip install Django
+ python -m django --version
+ python3 -m django --version
+python3 -m pip3 install Django --user
+python3 -m pip install Django --user
+ python3 -m django --version
+python3 manage.py runserver
+pip install django-heroku
+python3 -m pip install django-heroku
+python3 -m pip install psycopg2
+python3 -m pip install psycopg2-binary
+python3 -m pip install psycopg2-binary --user
+python3 -m pip install django-heroku --user
+python3 -m pip install psycopg2 --user
+python3 manage.py runserver
+python3 manage.py runserver
+python3 -m pip install -r requirements.txt
+python3 manage.py runserver
+python3 $ pip install dj-database-url
+python3 -m pip install dj-database-url --user
+python3 manage.py runserver
+python3 -m pip install python-decouple
+python3 -m pip install python-decouple --user
+python3 manage.py runserver
+python3 manage.py runserver
+python3 -m pip install djangorestframework --user
+python3 manage.py runserver
+python3 -m pip install django-bootstrap4 --user
+python3 manage.py runserver
+python3 -m pip install django-tinymce --user
+python3 manage.py runserver
+python3 -m pip install django-crispy-forms --user
+python3 manage.py runserver
+python3 -m pip install django-star-ratings --user
+python3 manage.py runserver
+python3 -m pip install django-countries --user
+python3 manage.py runserver
+python3 -m pip install django-registration --user
+python3 manage.py runserver
+
+python3 manage.py runserver
+pip freeze > requirements.txt
+python3 -m pip freeze > requirements.txt
+python3 manage.py runserver
+python3 -m pip install django_registration_redux --user
+python3 manage.py runserver
+python3 manage.py runserver
+python3 -m pip install pillow --user
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py migrate
+python3 manage.py runserver
+python3 -m pip install django-cors-headers --user
+python3 manage.py runserver
+python3 -m pip install whitenoise --user
+python3 manage.py runserver
+git init
+git remote add origin https://github.com/shizukane/Truth-Web.git
+git remote remove origin
+git remote add origin https://github.com/shizukane/Truth-Web.git
+git add .
+git commit -m "added functionalities"
+git push -u origin main
+git push 
+git push origin master
+git remote -v
+git remote set-url origin git@github.com:USERNAME/REPONAME.git
+git remote set-url origin git@github.com:shizukane/Truth-Web.git
+git push origin master
+python3 manage.py runserver
+python3 manage.py runserver
+python3 -m pip install django-crispy-forms
+python3 -m pip install --upgrade --user
+python3 -m pip install --upgrade
+pip install --upgrade
+python3 manage.py runserver
+$ source env/bin/activate  
+source env/bin/activate  
+python3 -m source env/bin/activate  
+ls
+cd projectsapp/
+source env/bin/activate  
+pyhton3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python manage.py runserver
+python3 -m ..awardapp.forms
+python manage.py runserver
+cd
+cd Documents/
+mkdir truthweb
+cd truthweb/
+cd Documents/
+cd truthweb/
+django-admin startproject locallibrary
+ls
+rm locallibrary
+rm -r locallibrary
+ls
+django-admin startproject truth
+ls
+cd truth/
+python3 manage.py startapp truthweb
+ls
+code .
+python manage.py runserver
+python manage.py runserver
+python3 -m venv env  
+source env/bin/activate
+python3 manage.py runserver
+python3 -m pip install django
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 -m pip install registration
+python3 -m pip install registration --user
+python3 -m pip install django-registration --user
+pip install django registration
+pip install django-registration
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+pip freeze > requirements.txt
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+cd Doc
+cd
+cd Documents/
+mkdir truth2
+cd truth2
+django-admin startproject truth
+ls
+cd truth/
+python3 manage.py startapp truthweb
+ls
+code .
+python3 -m pip install django
+python3 -m venv env
+source env/bin/activate
+python3 manage.py runserver
+ls
+pip install django
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 -m pip install django-crispy-forms
+python3 manage.py runserver
+python3 manage.py runserver
+python3 -m pip install django-countries
+python3 manage.py runserver
+python3 -m pip install django-star-ratings
+python3 manage.py runserver
+pip freeze > requirements.txt
+python3 manage.py runserver
+python3 manage.py runserver
+python3 -m pip install djangorestframework
+python3 manage.py runserver
+python3 -m pip install pillow
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 -m pip install whitenoise
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py migrate
+python3 -m pip install psycopg2 --user
+python3 -m pip install psycopg2 
+python3 manage.py migrate
+python3 manage.py runserver
+python3 manage.py runserver
+python3 -m pip install django-countries
+python3 manage.py runserver
+python3 manage.py runserver
+source env/bin/activate
+python3 manage.py runserver
+python3 manage.py runserver
+php artisan make:seeder contactsTableSeeder
+php artisan db:seed --class contactsTableSeeder
+php artisan db:seed --class contactsTableSeeder
+php artisan db:seed --class contactsTableSeeder
+php artisan db:seed --class contactsTableSeeder
+php artisan db:seed --class contactsTableSeeder
+php artisan db:seed --class contactsTableSeeder
+php artisan migrate
+php artisan make:migration create_contacts_table
+php artisan migrate
+php artisan db:seed --class contactsTableSeeder
+php artisan make:migration create_company_table
+php artisan migrate
+php artisan db:seed --class companyTableSeeder
+php artisan make:seeder CompanyTableSeeder
+php artisan db:seed --class companyTableSeeder
+php artisan migrate
+php artisan db:seed --class CompanyTableSeeder
+php artisan db:seed --class CompanyTableSeeder
+php artisan db:seed --class CompanyTableSeeder
+php artisan db:seed --class CompanyTableSeeder
+php artisan serve
+php artisan make:model Contact
+php artisan serve
+cd 
+django-admin startproject myproj
+source env/bin/activate
+python3 manage.py runserver
+source env/bin/acivate
+source env/bin/activate
+pip install django-registration
+pip install registration
+php artisan serve
+php artisan db:seed --class contactsTableSeeder
+php artisan db:seed --class contactsTableSeeder
+php artisan migrate
+php artisan db:seed --class contactsTableSeeder
+php artisan db:seed --class contactsTableSeeder
+php artisan migrate
+php artisan make:factory -m Company
+php artisan make:factory CompanyFactory -m Company
+php artisan make:factory CompanyFactory -m Company
+source env/bin/activate
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+git init
+git remote remove origin
+git remote add origin https://github.com/shizukane/Truth-Web.git
+git add .
+git commit -m "added all files"
+git push origin master
+git push
+git push -f
+git push -f origin main
+git config --list
+cd
+cd Documents/
+cd classwork/
+ls
+cd student_mgt-system_v2/
+code .
+python3 manage.py runserver
+cd
+cd Documents/
+cd classwork/
+ls
+cd
+cd Documents/
+cd truth
+cd truth
+cd truth2
+cd truth/
+git push
+git push origin main
+git config --global url."https://github.com/omeddo/truth.githttps://github.com/omeddo/truth.git"
+git push origin main
+git config --global http.proxy http://omeddo:darolle90@proxy_ip:port
+git push origin main
+brew uninstall git
+/usr/local/etc/gitconfig/uninstall.sh
+usr/local/etc/gitconfig/uninstall.sh
+/usr/local/git/uninstall.sh
+/usr/local/Cellar/git/uninstall.sh
+git --version
+git init
+brew install git
+git init
+git push origin main
+git config --list
+source /Users/air/Documents/truth2/truth/env/bin/activate
+git push -f origin main
+git config --list
+php artisan db:seed --class ComapanyTableSeeder
+php artisan db:seed --class CompanyTableSeeder
+php artisan db:seed --class CompanyTableSeeder
+php artisan db:seed --class CompanyTableSeeder
+php artisan db:seed --class CompanyTableSeeder
+php artisan db:seed --class CompanyTableSeeder
+php artisan db:seed --class CompanyTableSeeder
+php artisan make:factory ContactFactory -m Company
+php artisan db:seed
+php artisan db:seed
+php artisan db:seed
+php artisan db:seed
+php artisan db:seed
+php artisan serve
+php artisan serve
+php artisan vendor:publish
+php artisan serve
+php artisan serve
+php artisan serve
+cd Documents/
+mkdir sample
+cd sample/
+touch index.html
+touch style.css
+touch script.js
+code .
+php artisan serve
+php artisan db:seed
+php artisan serve
+php artisan db:seed
+php artisan serve
+php artisan db:seed
+php artisan serve
+php artisan serve
+php artisan serve
+php artisan serve
+source env/bin/activate
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+source env/bin/activate
+python3 manage.py runserver
+php artisan serve
+php artisan serve
+top
+ lsof -i tcp:3306 
+ lsof -i tcp:3000
+sudo /usr/local/mysql/support-files/mysql.server start
+ps -e |mgrep mysql
+ps -e |grep mysql
+kill -9 4271
+ps -e |grep mysql
+kill -9 4375
+ps -e |grep mysql
+sudo kill -9 4392
+sudo /usr/local/mysql/support-files/mysql.server start
+ls -la /usr/local/mysql/
+sudo nautilus
+source env/bin/activatr
+source env/bin/activate
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+cd
+git init
+git init
+mkdir anatha
+cd anatha/
+git clone https://github.com/shizukane/projectsapp.git
+ls
+ls
+deactivate
+ls
+git clone https://github.com/shizukane/projectsapp.git
+python3 manage.py runserver
+sudo su
+cd
+cd anatha/
+git clone https://github.com/shizukane/projectsapp.git
+git config --global --unset http.proxy
+git clone https://github.com/shizukane/projectsapp.git
+ls
+cd projectsapp/
+ls
+source env/bin/activate
+python3 manage.py runserver
+code .
+code .
+git init
+git remote add origin https://github.com/omeddo/ttt.git
+git remote remove origin
+git remote add origin https://github.com/omeddo/ttt.git
+git push origin main
+git push 
+git push -f origin master
+php artisan migrate
+brew tap shivammathur/php

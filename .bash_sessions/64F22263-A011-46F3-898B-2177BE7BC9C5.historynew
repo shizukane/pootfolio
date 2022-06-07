@@ -1,0 +1,10 @@
+curl -sS https://getcomposer.org/installer | php 
+brew update && brew upgrade
+brew update && brew upgrade
+brew reinstall php80
+brew reinstall php@8.0
+php -version
+  echo 'export PATH="/usr/local/opt/php@8.0/bin:$PATH"' >> /Users/air/.bash_profile
+php -version
+brew info libpng
+brew switch libpng 1.5.18

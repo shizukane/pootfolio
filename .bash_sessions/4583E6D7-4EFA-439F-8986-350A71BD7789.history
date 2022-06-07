@@ -1,0 +1,346 @@
+git init
+cd Documents/
+mkdir myprojects
+cd myprojects/
+git init
+git clone https://github.com/shizukane/Hood.git
+cd Hood/
+code .
+brew install python
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install python
+ brew upgrade python
+brew install python3
+sudo Killall VDCAssistant
+sudo Killall VDCAssistant
+pip --version
+python --version
+python --version
+python --version
+python --version
+brew list
+brew install python
+python --version
+python3 --version
+python3
+pip --version
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python -m pip install -U pip
+python3 get-pip.py
+pip3 --version
+pip3 install virtualenvwrapper-win
+clear
+cd Documents/
+mkdir myprojects
+ls
+cd myprojects/
+ls
+mkvirtualenv env
+pip3 --version
+python3 --version
+mkvirtualenv test
+pip3 install virtualenv 
+virtualenv venv 
+source source venv/bin/activate
+ source venv/bin/activate
+pip3 intall django
+pip3 install django
+cd Documents/
+cd myprojects/
+django-admin startproject telusko
+python3 manage.py runserver
+ source venv/bin/activate
+source venv/bin/activate
+virtualenv venv 
+source venv/bin/activate
+python3 manage.py runserver
+pip3 install django
+python3 manage.py runserver
+python3 manage.py startapp calc
+python3 manage.py runserver
+source /Users/air/Documents/myprojects/telusko/venv/bin/activate
+/Users/air/Documents/myprojects/telusko/venv/bin/python3.9 /Users/air/Documents/myprojects/telusko/calc/urls.py
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+source venv/bin/activate
+python3 manage.py runserver
+source venv/bin/activate
+python3 manage.py runserver
+python3 manage.py startapp travello
+python3 manage.py runserver
+python3 manage.py collectstatic
+python3 manage.py runserver
+source venv/bin/activate
+python3 manage.py runserver
+source venv/bin/activate
+python3 manage.py runserver
+source /bin/activate
+source venv/bin/activate
+python3 manage.py runserver
+python3 manage.py runserver
+source venv/bin/activate
+python3 manage.py runserver
+python3 manage.py migrate
+python3 manage.py runserver
+python3 manage.py runserver
+CD dOC
+cd Documents/
+ls
+cd myprojects/
+ls
+cd telusko
+ls
+git init
+git remote add origin https://github.com/shizukane/mypotfolio.git
+git remote
+git remote origin
+git remote -v
+code .
+git push origin master
+git add .
+git commit -m "added stuff"
+git push origin master
+cd
+cd Documents/
+cd myprojects/
+mkdir mypotfolio
+cd mypotfolio/
+touch index.html
+touch styles.css
+touch script.js
+ls
+touch script.js
+sudo killall VDCAssistant
+sudo killall AppleCameraAssistant
+sudo killall AppleCameraAssistant
+security find-generic-password -wa JTL Faiba
+git init
+git clone https://github.com/shizukane/pootfolio.git
+git init
+git clone https://github.com/shizukane/pootfolio.git
+mkdir portfolio
+cd portfolio/
+git clone https://github.com/shizukane/pootfolio.git
+ls
+git clone https://github.com/shizukane/pootfolio.git
+git add .
+git -f add .
+git rm origin
+git remote rm origin
+git remote -v
+git add .
+git commit -m "all files"
+git remote origin
+git add .
+git commit "all files"
+git commit -m "all files"
+git commit -m "all files"
+git push origin master
+git remote origin
+git remote -v
+ls
+cd Applications
+ls
+cd Apps.localized
+cd ../
+ls
+cd Applications/xammp
+cd Applications/Xammp
+cd /
+ls
+cd opt
+ls
+cd opt
+ls
+python -v
+python version
+python
+python -v upgrade
+python upgrade
+python
+source /Users/air/Documents/myprojects/telusko/venv/bin/activate
+/Users/air/Documents/myprojects/telusko/venv/bin/python3.9 /Users/air/Desktop/classwork2/daron/pass.py
+/Users/air/Documents/myprojects/telusko/venv/bin/python3.9 /Users/air/Desktop/classwork2/daron/pass.py
+source /Users/air/Documents/myprojects/telusko/venv/bin/activate
+/Users/air/Documents/myprojects/telusko/venv/bin/python3.9 /Users/air/Desktop/classwork2/daron/pass.py
+/Users/air/Documents/myprojects/telusko/venv/bin/python3.9 /Users/air/Desktop/classwork2/daron/pass.py
+git --version
+git config --global user.email = drizydarolle@gmail.com
+cd Desktop
+ls
+ls
+ls
+cd project/
+ls
+code .
+git init
+git status
+git config --global init.defaultBranch main
+git status
+rm -rf .git
+git init
+git status
+git add index.html
+gti commit -m "my first commit"
+git commit -m "my first commit"
+git status
+git restore
+git restore index.html
+git status
+gti diff
+git diff
+git log
+cd ../
+gti config --list
+git config --list
+git config --global user.email "drizydarolle@gmail.com"
+git config --global user.name "shizukane""
+git config --global user.name "shizukane"
+git config --list
+cd .
+cd ../
+cd classwork2/
+cd project/
+ls
+git add .
+git commit -m "added a paragraph"
+git add .
+git commit -m "added a hr line"
+git add .
+git commit -m "added break"
+git log
+git show
+git revert HEAD
+cd Desktop/
+cd classwork2/
+cd project/"
+git config --global core.editor "code --wait"
+git config --list
+git revert HEAD
+git commit -m "commit"
+git revert HEAD
+git config --global core.editor "code --wait"
+git revert HEAD
+code .
+cd ../
+ls
+cd ../
+ls
+ ls
+cd classwork2/
+mkdir project2
+cd project2
+git clone https://github.com/shizukane/project1.git
+git clone https://github.com/shizukane/project1.git
+git clone https://github.com/shizukane/project1.git
+ls
+touch index.html
+ls
+cd project1/
+touch index.html
+code .
+git add .
+git commit -m "added index"
+git push origin master
+code .
+git add .
+gti commit -m "added h1 tag"
+git commit -m "added h1 tag"
+git push
+cd../
+cd ../
+cd ./
+cd ../
+mkdir project3
+cd project3
+touch index.html
+touch styles.css
+code .
+ls
+git init
+git add .
+git commit -m "created a nav barr"
+git remote add origin https://github.com/shizukane/projectt3.git
+git push -u origin main
+git add .
+git commit -m "added a link in htmk
+git commit -m "added a link in html"
+git push -u origin main
+git status
+git status
+git pull
+git log
+git status
+git status
+git status
+  cd ..
+mkdir project4
+cd project4
+git clone https://github.com/shizukane/louis_vuittonn.git
+;
+python --version
+pip --version
+django-admin --version
+pip install virtualenvwrapper-win
+mkvirtualenv test
+pip install django
+pip install virtualenv
+cd Desktop/
+cd classwork2/
+mkdir djangoproj
+cd djangoproj/
+virtualenv venv
+pip install django
+code .
+code ..
+code .
+django-admin --version
+django-admin startproject myproj
+ls
+cd myproj/
+python manage.py runserver
+ls
+python3 manage.py runserver
+python3 manage.py startapp proj
+virtualenv venv
+virtualenv venv
+python3 manage.py runserver
+python manage.py runserver
+cd myproj/
+python3 manage.py runserver
+pip show Django
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+cd ..
+python3 manage.py runserver
+cd myproj/
+cd ..
+python3 manage.py runserver
+/Applications/MetaTrader\ 5.app/Contents/SharedSupport/metatrader5/MetaTrader\ 5/wine64-preloader ; exit;
+ls
+cd thisproj/
+ls
+python3 manage.py runserver
+python3 manage.py createsuperuser
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py startapp accounts
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver
+python3 manage.py runserver

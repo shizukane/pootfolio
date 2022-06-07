@@ -1,0 +1,11 @@
+cd Desktop/
+cd classwork2/
+cd phpprojects/
+ls
+cd student-mgt-system/
+CREATE DATABASE student;
+mysql
+mysql -u SHIZU -pDAROLLE -h root STUDENT 
+ln -s /usr/local/mysql/bin/mysql /usr/local/bin/mysql
+mysql -u SHIZU -pDAROLLE -h root STUDENT 
+/usr/local/mysql/bin/mysql -u root -p 

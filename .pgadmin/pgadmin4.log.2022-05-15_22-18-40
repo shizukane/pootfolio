@@ -1,0 +1,9 @@
+2022-05-15 20:47:37,781: WARNING	werkzeug:	WebSocket transport not available. Install simple-websocket for improved performance.
+2022-05-15 21:13:05,373: WARNING	werkzeug:	WebSocket transport not available. Install simple-websocket for improved performance.
+2022-05-15 21:13:18,890: ERROR	pgadmin:	Could not connect to server(#1) - 'PostgreSQL 14'.
+Error: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2022-05-15 21:13:46,862: ERROR	pgadmin:	Failed to execute query (execute_scalar) for the server #1 - DB:postgres (Query-id: 1411845):
+Error Message:ERROR:  database "shizu" already exists
+
+2022-05-15 22:18:40,451: WARNING	werkzeug:	WebSocket transport not available. Install simple-websocket for improved performance.

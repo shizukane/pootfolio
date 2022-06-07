@@ -1,0 +1,362 @@
+2022-01-26 00:07:25.799 INFO    92 [AWT-EventQueue-0 - e.initialize] DbVisualizer: STARTING
+2022-01-26 00:07:25.818 CONFIG  92 [AWT-EventQueue-0 - e.b] Product: DbVisualizer 12.1.8 [Build #3244]
+2022-01-26 00:07:25.819 CONFIG  92 [AWT-EventQueue-0 - e.b] OS: Mac OS X
+2022-01-26 00:07:25.819 CONFIG  92 [AWT-EventQueue-0 - e.b] OS Version: 10.15.7
+2022-01-26 00:07:25.820 CONFIG  92 [AWT-EventQueue-0 - e.b] OS Arch: x86_64
+2022-01-26 00:07:25.820 CONFIG  92 [AWT-EventQueue-0 - e.b] Java Version: 11.0.11
+2022-01-26 00:07:25.822 CONFIG  92 [AWT-EventQueue-0 - e.b] Java VM: OpenJDK 64-Bit Server VM
+2022-01-26 00:07:25.822 CONFIG  92 [AWT-EventQueue-0 - e.b] Java Vendor: AdoptOpenJDK
+2022-01-26 00:07:25.822 CONFIG  92 [AWT-EventQueue-0 - e.b] Java Home: /Applications/DbVisualizer.app/Contents/PlugIns/jre.bundle/Contents/Home
+2022-01-26 00:07:25.823 CONFIG  92 [AWT-EventQueue-0 - e.b] DbVis Home: /Applications/DbVisualizer.app/Contents/java/app
+2022-01-26 00:07:25.823 CONFIG  92 [AWT-EventQueue-0 - e.b] User Home: /Users/air
+2022-01-26 00:07:25.824 CONFIG  92 [AWT-EventQueue-0 - e.b] PrefsDir: /Users/air/.dbvis
+2022-01-26 00:07:25.825 CONFIG  92 [AWT-EventQueue-0 - e.b] SessionId: 92
+2022-01-26 00:07:25.839 CONFIG  92 [AWT-EventQueue-0 - e.b] Java Arguments: <none>
+2022-01-26 00:07:25.840 CONFIG  92 [AWT-EventQueue-0 - e.b] Java Properties: 
+--add-exports=java.base/sun.security.action=ALL-UNNAMED
+--add-exports=java.desktop/sun.awt.shell=ALL-UNNAMED
+--add-exports=java.desktop/sun.swing.plaf.synth=ALL-UNNAMED
+--add-exports=java.desktop/sun.swing.table=ALL-UNNAMED
+--add-exports=java.desktop/sun.swing=ALL-UNNAMED
+--add-exports=java.xml/com.sun.org.apache.xerces.internal.parsers=ALL-UNNAMED
+--add-opens=java.base/java.util=ALL-UNNAMED
+--add-opens=java.desktop/com.apple.laf=ALL-UNNAMED
+--add-opens=java.desktop/com.sun.awt=ALL-UNNAMED
+--add-opens=java.desktop/java.awt.event=ALL-UNNAMED
+--add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED
+--add-opens=java.desktop/javax.swing.plaf.synth=ALL-UNNAMED
+--add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED
+--add-opens=java.desktop/javax.swing.tree=ALL-UNNAMED
+--add-opens=java.desktop/javax.swing=ALL-UNNAMED
+--add-opens=java.desktop/sun.awt.image=ALL-UNNAMED
+--add-opens=java.desktop/sun.awt=ALL-UNNAMED
+--add-opens=java.xml/com.sun.org.apache.xerces.internal.util=ALL-UNNAMED
+-Ddbvis.home=/Applications/DbVisualizer.app/Contents/Resources/app
+-Dexe4j.moduleName=/Applications/DbVisualizer.app
+-Dfile.encoding=UTF-8
+-Di4j.jreBundle=/Applications/DbVisualizer.app/Contents/PlugIns/jre.bundle
+-Di4j.ownBundlePath=/Applications/DbVisualizer.app
+-Dinstall4j.launcherId=3074
+-Dinstall4j.swt=false
+-Djava.library.path=/Applications/DbVisualizer.app/Contents/Resources/app/
+-Dsun.locale.formatasdefault=true
+-XX:StringTableSize=1000003
+-Xmx768m
+2022-01-26 00:07:26.109 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/Bookmarks
+2022-01-26 00:07:26.110 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/config70
+2022-01-26 00:07:26.111 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/config70/borders
+2022-01-26 00:07:26.111 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/config70/themes
+2022-01-26 00:07:26.112 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/config70/keymaps
+2022-01-26 00:07:26.113 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/config70/layouts
+2022-01-26 00:07:26.115 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/config70/sqlformats
+2022-01-26 00:07:26.116 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/ext
+2022-01-26 00:07:26.117 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/ext/images
+2022-01-26 00:07:26.117 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/ext/images/16x16
+2022-01-26 00:07:26.118 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/ext/images/24x24
+2022-01-26 00:07:26.119 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/ext/profiles
+2022-01-26 00:07:26.121 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/ext/keywords
+2022-01-26 00:07:26.124 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/History
+2022-01-26 00:07:26.129 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/import
+2022-01-26 00:07:26.130 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/jdbc
+2022-01-26 00:07:26.131 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/Monitors
+2022-01-26 00:07:26.132 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/Workspace
+2022-01-26 00:07:26.133 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/Workspace/default
+2022-01-26 00:07:26.133 INFO    92 [AWT-EventQueue-0 - c.b] Directory created: /Users/air/.dbvis/sqllogs
+2022-01-26 00:07:26.789 INFO    92 [AWT-EventQueue-0 - OraTNSUtil.getTNSDirectory] The TNS_ADMIN environment variable is not set. Trying ORACLE_HOME
+2022-01-26 00:07:26.790 INFO    92 [AWT-EventQueue-0 - OraTNSUtil.getTNSDirectory] The ORACLE_HOME environment variable is not set. TNS names cannot be used for Oracle connections
+2022-01-26 00:07:27.244 INFO    92 [AWT-EventQueue-0 - nb.f] Existing beans: 'G1 Old Gen' max: 805306368
+2022-01-26 00:07:27.244 INFO    92 [AWT-EventQueue-0 - nb.f] Memory monitor initialized for MxBean: 'G1 Old Gen' Notification threshold: 41943040 Low memory threshold: 25165824 release buffer: 1048576 Usage threshold: 763363328
+2022-01-26 00:07:34.836 INFO    92 [AWT-EventQueue-0 - d.g] Proceeding from EntryDialog with Free license
+2022-01-26 00:07:45.303 INFO    92 [AWT-EventQueue-0 - DbVisualizerGUI.initialize] Startup time: 21.955
+2022-01-26 00:07:45.841 INFO    92 [AWT-EventQueue-0 - c.c] Load workspace time: 0.055
+2022-01-26 00:07:45.842 INFO    92 [AWT-EventQueue-0 - ib.e] Workspace auto saver thread started. Interval: 30 sec
+2022-01-26 00:07:45.845 INFO    92 [AWT-EventQueue-0 - cb.d] Connection keep-alive thread started. Interval: 10 sec
+2022-01-26 00:07:45.870 INFO    92 [AWT-EventQueue-0 - t.g] Workspace file modification monitor thread started. Interval: 30 sec
+2022-01-26 00:09:02.098 INFO    92 [ExecutorRunner-pool-3-thread-1 - k.ac] Exception while connecting root
+*** Database Properties ****************************
+Alias: root
+Notes: [0 characters]
+Settings Format: Server Info
+URL: jdbc:mysql://localhost:3306/
+Driver: MySQL
+Preferred Database Type: AUTO
+Current Database Type: MYSQL
+Preferred Profile: auto
+Current Profile: null (not connected?)
+Connection State(s): DISCONNECTED
+--- Object Type Settings ---------------------------
+None
+--- Overridden User Properties ---------------------
+None
+--- Overridden Driver Properties -------------------
+enabledTLSProtocols = TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
+defaultFetchSize = 5000
+useCursorFetch = true
+*** End Database Properties ************************
+*** Driver Information *****************************
+Name: MySQL
+DefaultDriver: true
+DefaultClass: com.mysql.jdbc.Driver
+Paths:
+  Path: /Applications/DbVisualizer.app/Contents/java/app/jdbc/mysql/mysql.jar
+    Class: com.mysql.jdbc.Driver
+*** End Driver Information *************************
+*** Current Connection Message *********************
+Disconnected.
+*** End Current Connection Message *****************
+
+2022-01-26 00:09:02.102 INFO    92 [ExecutorRunner-pool-3-thread-1 - k.ac] Exception while connecting root
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:335)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2187)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2220)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2015)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:768)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:385)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:323)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.onseven.dbvis.jdbc.b.e.b(Z:2153)
+	at com.onseven.dbvis.jdbc.b.g$_b.call(Z:3572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:299)
+	... 22 more
+2022-01-26 00:09:04.274 INFO    92 [AWT-EventQueue-0 - b.e] Wrote user properties files. Time: 2.645. Success files: 9. Failed: 0
+2022-01-26 00:09:26.494 INFO    92 [ExecutorRunner-pool-3-thread-1 - k.ac] Exception while connecting root
+*** Database Properties ****************************
+Alias: root
+Notes: [0 characters]
+Settings Format: Server Info
+URL: jdbc:mysql://localhost:3306/
+Driver: MySQL
+Preferred Database Type: AUTO
+Current Database Type: MYSQL
+Preferred Profile: auto
+Current Profile: null (not connected?)
+Connection State(s): DISCONNECTED
+--- Object Type Settings ---------------------------
+None
+--- Overridden User Properties ---------------------
+None
+--- Overridden Driver Properties -------------------
+enabledTLSProtocols = TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
+defaultFetchSize = 5000
+useCursorFetch = true
+*** End Database Properties ************************
+*** Driver Information *****************************
+Name: MySQL
+DefaultDriver: true
+DefaultClass: com.mysql.jdbc.Driver
+Paths:
+  Path: /Applications/DbVisualizer.app/Contents/java/app/jdbc/mysql/mysql.jar
+    Class: com.mysql.jdbc.Driver
+*** End Driver Information *************************
+*** Current Connection Message *********************
+Disconnected.
+*** End Current Connection Message *****************
+
+2022-01-26 00:09:26.501 INFO    92 [ExecutorRunner-pool-3-thread-1 - k.ac] Exception while connecting root
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:335)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2187)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2220)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2015)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:768)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:385)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:323)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.onseven.dbvis.jdbc.b.e.b(Z:2153)
+	at com.onseven.dbvis.jdbc.b.g$_b.call(Z:3572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:299)
+	... 22 more
+2022-01-26 00:09:29.039 INFO    92 [AWT-EventQueue-0 - b.e] Wrote user properties files. Time: 2.575. Success files: 9. Failed: 0
+2022-01-26 00:09:39.939 INFO    92 [ExecutorRunner-pool-3-thread-1 - k.ac] Exception while connecting root
+*** Database Properties ****************************
+Alias: root
+Notes: [0 characters]
+Settings Format: Server Info
+URL: jdbc:mysql://localhost:3306/
+Driver: MySQL
+Preferred Database Type: AUTO
+Current Database Type: MYSQL
+Preferred Profile: auto
+Current Profile: null (not connected?)
+Connection State(s): DISCONNECTED
+--- Object Type Settings ---------------------------
+None
+--- Overridden User Properties ---------------------
+None
+--- Overridden Driver Properties -------------------
+enabledTLSProtocols = TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
+defaultFetchSize = 5000
+useCursorFetch = true
+*** End Database Properties ************************
+*** Driver Information *****************************
+Name: MySQL
+DefaultDriver: true
+DefaultClass: com.mysql.jdbc.Driver
+Paths:
+  Path: /Applications/DbVisualizer.app/Contents/java/app/jdbc/mysql/mysql.jar
+    Class: com.mysql.jdbc.Driver
+*** End Driver Information *************************
+*** Current Connection Message *********************
+Disconnected.
+*** End Current Connection Message *****************
+
+2022-01-26 00:09:39.940 INFO    92 [ExecutorRunner-pool-3-thread-1 - k.ac] Exception while connecting root
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:335)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2187)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2220)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2015)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:768)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:385)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:323)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.onseven.dbvis.jdbc.b.e.b(Z:2153)
+	at com.onseven.dbvis.jdbc.b.g$_b.call(Z:3572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:299)
+	... 22 more
+2022-01-26 00:09:41.237 INFO    92 [AWT-EventQueue-0 - b.e] Wrote user properties files. Time: 1.307. Success files: 9. Failed: 0
+2022-01-26 14:00:43.192 INFO   820 [AWT-EventQueue-0 - e.initialize] DbVisualizer: STARTING
+2022-01-26 14:00:43.216 CONFIG 820 [AWT-EventQueue-0 - e.b] Product: DbVisualizer 12.1.8 [Build #3244]
+2022-01-26 14:00:43.216 CONFIG 820 [AWT-EventQueue-0 - e.b] OS: Mac OS X
+2022-01-26 14:00:43.217 CONFIG 820 [AWT-EventQueue-0 - e.b] OS Version: 10.15.7
+2022-01-26 14:00:43.217 CONFIG 820 [AWT-EventQueue-0 - e.b] OS Arch: x86_64
+2022-01-26 14:00:43.219 CONFIG 820 [AWT-EventQueue-0 - e.b] Java Version: 11.0.11
+2022-01-26 14:00:43.219 CONFIG 820 [AWT-EventQueue-0 - e.b] Java VM: OpenJDK 64-Bit Server VM
+2022-01-26 14:00:43.220 CONFIG 820 [AWT-EventQueue-0 - e.b] Java Vendor: AdoptOpenJDK
+2022-01-26 14:00:43.221 CONFIG 820 [AWT-EventQueue-0 - e.b] Java Home: /Applications/DbVisualizer.app/Contents/PlugIns/jre.bundle/Contents/Home
+2022-01-26 14:00:43.221 CONFIG 820 [AWT-EventQueue-0 - e.b] DbVis Home: /Applications/DbVisualizer.app/Contents/java/app
+2022-01-26 14:00:43.222 CONFIG 820 [AWT-EventQueue-0 - e.b] User Home: /Users/air
+2022-01-26 14:00:43.222 CONFIG 820 [AWT-EventQueue-0 - e.b] PrefsDir: /Users/air/.dbvis
+2022-01-26 14:00:43.223 CONFIG 820 [AWT-EventQueue-0 - e.b] SessionId: 820
+2022-01-26 14:00:43.404 CONFIG 820 [AWT-EventQueue-0 - e.b] Java Arguments: <none>
+2022-01-26 14:00:43.405 CONFIG 820 [AWT-EventQueue-0 - e.b] Java Properties: 
+--add-exports=java.base/sun.security.action=ALL-UNNAMED
+--add-exports=java.desktop/sun.awt.shell=ALL-UNNAMED
+--add-exports=java.desktop/sun.swing.plaf.synth=ALL-UNNAMED
+--add-exports=java.desktop/sun.swing.table=ALL-UNNAMED
+--add-exports=java.desktop/sun.swing=ALL-UNNAMED
+--add-exports=java.xml/com.sun.org.apache.xerces.internal.parsers=ALL-UNNAMED
+--add-opens=java.base/java.util=ALL-UNNAMED
+--add-opens=java.desktop/com.apple.laf=ALL-UNNAMED
+--add-opens=java.desktop/com.sun.awt=ALL-UNNAMED
+--add-opens=java.desktop/java.awt.event=ALL-UNNAMED
+--add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED
+--add-opens=java.desktop/javax.swing.plaf.synth=ALL-UNNAMED
+--add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED
+--add-opens=java.desktop/javax.swing.tree=ALL-UNNAMED
+--add-opens=java.desktop/javax.swing=ALL-UNNAMED
+--add-opens=java.desktop/sun.awt.image=ALL-UNNAMED
+--add-opens=java.desktop/sun.awt=ALL-UNNAMED
+--add-opens=java.xml/com.sun.org.apache.xerces.internal.util=ALL-UNNAMED
+-Ddbvis.home=/Applications/DbVisualizer.app/Contents/Resources/app
+-Dexe4j.moduleName=/Applications/DbVisualizer.app
+-Dfile.encoding=UTF-8
+-Di4j.jreBundle=/Applications/DbVisualizer.app/Contents/PlugIns/jre.bundle
+-Di4j.ownBundlePath=/Applications/DbVisualizer.app
+-Dinstall4j.launcherId=3074
+-Dinstall4j.swt=false
+-Djava.library.path=/Applications/DbVisualizer.app/Contents/Resources/app/
+-Dsun.locale.formatasdefault=true
+-XX:StringTableSize=1000003
+-Xmx768m
+2022-01-26 14:00:46.854 INFO   820 [AWT-EventQueue-0 - OraTNSUtil.getTNSDirectory] The TNS_ADMIN environment variable is not set. Trying ORACLE_HOME
+2022-01-26 14:00:46.854 INFO   820 [AWT-EventQueue-0 - OraTNSUtil.getTNSDirectory] The ORACLE_HOME environment variable is not set. TNS names cannot be used for Oracle connections
+2022-01-26 14:00:47.778 INFO   820 [AWT-EventQueue-0 - nb.f] Existing beans: 'G1 Old Gen' max: 805306368
+2022-01-26 14:00:47.779 INFO   820 [AWT-EventQueue-0 - nb.f] Memory monitor initialized for MxBean: 'G1 Old Gen' Notification threshold: 41943040 Low memory threshold: 25165824 release buffer: 1048576 Usage threshold: 763363328
+2022-01-26 14:01:05.319 INFO   820 [AWT-EventQueue-0 - DbVisualizerGUI.initialize] Startup time: 34.172
+2022-01-26 14:01:06.710 INFO   820 [AWT-EventQueue-0 - c.c] Load workspace time: 0.570
+2022-01-26 14:01:06.713 INFO   820 [AWT-EventQueue-0 - ib.e] Workspace auto saver thread started. Interval: 30 sec
+2022-01-26 14:01:06.716 INFO   820 [AWT-EventQueue-0 - cb.d] Connection keep-alive thread started. Interval: 10 sec
+2022-01-26 14:01:06.721 INFO   820 [AWT-EventQueue-0 - t.g] Workspace file modification monitor thread started. Interval: 30 sec
+2022-01-26 14:01:19.234 INFO   820 [AWT-EventQueue-0 - b.e] Wrote user properties files. Time: 0.216. Success files: 9. Failed: 0
+2022-01-26 14:01:19.235 INFO   820 [AWT-EventQueue-0 - DbVisualizerGUI.b] Shutdown time: 0.971
+2022-01-26 14:01:19.236 INFO   820 [AWT-EventQueue-0 - DbVisualizerGUI.b] DbVisualizer: STOPPED. ExitType: NORMAL
+

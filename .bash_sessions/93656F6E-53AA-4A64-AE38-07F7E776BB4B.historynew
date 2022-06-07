@@ -1,0 +1,6 @@
+sudo /Applications/XAMPP/bin/mysql.server start
+cd /Applications/XAMPP/xamppfiles
+sudo chown -R root manager-osx.app
+sudo
+sudo 
+sudo killall mysqld

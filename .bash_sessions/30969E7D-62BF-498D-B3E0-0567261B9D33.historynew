@@ -1,0 +1,49 @@
+php composer-setup.php --install-dir=bin --filename=composer
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === '55ce33d7678c5a611085589f1f3ddf8b3c52d662cd01d4ba75c0ee0459970c2200a51f492d557530c71c15d8dba01eae') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+ff
+ffffffffff
+composer create-project laravel/laravel student 4.2.**
+composer global require "laravel/installer=~1.1"
+php bin/composer
+php bin/composer
+cd Desktop/
+cd classwork2/
+mkdir phpprojects
+cd phpprojects/
+php composer-setup.php --install-dir=bin --filename=composer
+composer -V
+cd ...
+cd .
+cd ..
+cd .
+cd .
+cd ..
+cd ..
+php composer-setup.php --install-dir=bin --filename=composer
+composer --version
+composer global require "laravel/installer=~1.1"
+php composer.phar
+composer --version
+sudo mv composer.phar /usr/local/bin/compo
+composer --versio
+composer global require "laravel/installer=~1.1"
+cd Desktop/
+cd classwork2/
+cd phpprojects/
+create-project laravel/laravel student-mgt-system
+composer create-project laravel/laravel student-mgt-system 4.2.*
+composer create-project laravel/laravel student-mgt-system 4.2.*
+composer create-project laravel/laravel student-mgt-system 4.2.*
+code .
+
+code .
+code .
+cdoe .
+cdoe .
+php artisan make:model student
+php artisan make:model student
+php artisan make:model student
+CREATE DATABASE student;

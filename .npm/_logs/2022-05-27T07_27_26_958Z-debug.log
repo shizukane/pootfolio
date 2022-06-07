@@ -1,0 +1,51 @@
+0 verbose cli [
+0 verbose cli   '/usr/local/Cellar/node/15.14.0/bin/node',
+0 verbose cli   '/usr/local/bin/npm',
+0 verbose cli   'install',
+0 verbose cli   '--ignore-scripts',
+0 verbose cli   'types-registry@latest'
+0 verbose cli ]
+1 info using npm@7.7.6
+2 info using node@v15.14.0
+3 timing npm:load:whichnode Completed in 2ms
+4 timing config:load:defaults Completed in 3ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 5ms
+6 timing config:load:builtin Completed in 5ms
+7 timing config:load:cli Completed in 4ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/Users/air/Library/Caches/typescript/4.6/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 2ms
+11 timing config:load:file:/Users/air/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 1ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:setEnvs Completed in 2ms
+17 timing config:load Completed in 17ms
+18 timing npm:load:configload Completed in 17ms
+19 timing npm:load:setTitle Completed in 14ms
+20 timing npm:load:setupLog Completed in 2ms
+21 timing npm:load:cleanupLog Completed in 4ms
+22 timing npm:load:configScope Completed in 0ms
+23 timing npm:load:projectScope Completed in 1ms
+24 timing npm:load Completed in 40ms
+25 timing config:load:flatten Completed in 7ms
+26 timing arborist:ctor Completed in 1ms
+27 timing arborist:ctor Completed in 0ms
+28 timing idealTree:init Completed in 19ms
+29 timing idealTree Completed in 615792ms
+30 timing command:install Completed in 615800ms
+31 verbose type body-timeout
+32 verbose stack FetchError: Response timeout while trying to fetch https://registry.npmjs.org/types-registry (over 300000ms)
+32 verbose stack     at Timeout._onTimeout (/usr/local/lib/node_modules/npm/node_modules/minipass-fetch/lib/body.js:128:28)
+32 verbose stack     at listOnTimeout (node:internal/timers:557:17)
+32 verbose stack     at processTimers (node:internal/timers:500:7)
+33 verbose cwd /Users/air/Library/Caches/typescript/4.6
+34 verbose Darwin 19.6.0
+35 verbose argv "/usr/local/Cellar/node/15.14.0/bin/node" "/usr/local/bin/npm" "install" "--ignore-scripts" "types-registry@latest"
+36 verbose node v15.14.0
+37 verbose npm  v7.7.6
+38 error code FETCH_ERROR
+39 error errno FETCH_ERROR
+40 error Response timeout while trying to fetch https://registry.npmjs.org/types-registry (over 300000ms)
+41 verbose exit 1

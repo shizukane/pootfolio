@@ -1,0 +1,7 @@
+[user]
+	email = shizukane90@gmail.com
+	name = omeddo
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait

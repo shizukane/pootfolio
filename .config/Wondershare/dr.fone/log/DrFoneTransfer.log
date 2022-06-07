@@ -1,0 +1,160 @@
+11/12/2021 12:31:00 PM OS Version: 10.15.7
+
+=======================================
+11/12/2021 12:31:00 PM Program.Start Product=dr.fone, Version=10.4.11.41
+11/12/2021 12:31:00 PM Program.InitLog...
+11/12/2021 12:31:00 PM Program.InitApp
+11/12/2021 12:31:01 PM <OnlineRatingSwitchHelper> 1
+11/12/2021 12:31:03 PM <USB DEBUG> start requesting...
+11/12/2021 12:31:03 PM RegisterUSBDevicesNotify handle:140615614750256
+MacMonitorTask start=============================
+11/12/2021 12:31:03 PM Add device: 000000000310
+11/12/2021 12:31:03 PM ConnectionHub OnDeviceArrival:IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBEHCI@1d000000/Internal Memory Card Reader@1d183000
+11/12/2021 12:31:03 PM AddUSBConnection device: IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBEHCI@1d000000/Internal Memory Card Reader@1d183000
+11/12/2021 12:31:04 PM <OnlineRatingSwitchHelper> 2
+11/12/2021 12:31:04 PM <OnlineRatingSwitchHelper> 3
+11/12/2021 12:31:04 PM <USB DEBUG> start parsing json...
+11/12/2021 12:31:04 PM <USB DEBUG> value compare: 1-1
+11/12/2021 12:31:04 PM Read device database error:System.Data.SQLite.SQLiteException (0x80004005): SQLite error
+no such table: t_deviceinfo
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, System.UInt32 timeoutMS, System.String& strRemain) [0x00236] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x000eb] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at System.Data.SQLite.SQLiteCommand.GetStatement (System.Int32 index) [0x0000b] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteCommand.GetStatement(int)
+  at System.Data.SQLite.SQLiteDataReader.NextResult () [0x000db] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at System.Data.SQLite.SQLiteDataReader..ctor (System.Data.SQLite.SQLiteCommand cmd, System.Data.CommandBehavior behave) [0x00051] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteDataReader..ctor(System.Data.SQLite.SQLiteCommand,System.Data.CommandBehavior)
+  at System.Data.SQLite.SQLiteCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x00006] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at System.Data.SQLite.SQLiteCommand.ExecuteDbDataReader (System.Data.CommandBehavior behavior) [0x00000] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x00000] in <d9067a07a82148d1800232c0302a3e4e>:0 
+  at System.Data.Common.DbDataAdapter.FillInternal (System.Data.DataSet dataset, System.Data.DataTable[] datatables, System.Int32 startRecord, System.Int32 maxRecords, System.String srcTable, System.Data.IDbCommand command, System.Data.CommandBehavior behavior) [0x0003f] in <d9067a07a82148d1800232c0302a3e4e>:0 
+  at System.Data.Common.DbDataAdapter.Fill (System.Data.DataTable[] dataTables, System.Int32 startRecord, System.Int32 maxRecords, System.Data.IDbCommand command, System.Data.CommandBehavior behavior) [0x0007c] in <d9067a07a82148d1800232c0302a3e4e>:0 
+  at System.Data.Common.DbDataAdapter.Fill (System.Data.DataTable dataTable) [0x00034] in <d9067a07a82148d1800232c0302a3e4e>:0 
+  at (wrapper remoting-invoke-with-check) System.Data.Common.DbDataAdapter.Fill(System.Data.DataTable)
+  at WMM.Common.Data.SqliteHelper+CommandDataAdapter.FillTable () [0x00019] in <7554a4aa8f2d445aadbf08b11efc0612>:0 
+  at WMM.Common.Data.SqliteHelper.ExecuteDataTable (System.String cmdText, System.Data.SQLite.SQLiteParameter[] p) [0x00010] in <7554a4aa8f2d445aadbf08b11efc0612>:0 
+  at WMM.Common.Data.SqliteHelper.ExecuteDataTable (System.String cmdText) [0x00000] in <7554a4aa8f2d445aadbf08b11efc0612>:0 
+  at WMM.Device.Connection.USBDriverManager.GetDeviceInfo (WMM.Device.DeviceNodeInfo devinfo) [0x00293] in <6b1a1733c97a4f78afa64591b351f3fa>:0 
+11/12/2021 12:31:05 PM Add device: 34ee6ab50a1809191741f240c1502ab5b14a56d4
+11/12/2021 12:31:05 PM ConnectionHub OnDeviceArrival:IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14100000
+11/12/2021 12:31:05 PM AddUSBConnection device: IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14100000
+11/12/2021 12:31:05 PM RegisterUSBDevicesNotify handle:140615617728352
+MacMonitorTask start=============================
+11/12/2021 12:31:05 PM Add device: 000000000310
+11/12/2021 12:31:05 PM ConnectionHub OnDeviceArrival:IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBEHCI@1d000000/Internal Memory Card Reader@1d183000
+11/12/2021 12:31:05 PM AddUSBConnection device: IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBEHCI@1d000000/Internal Memory Card Reader@1d183000
+11/12/2021 12:31:05 PM ConnectionHub.AddConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14100000, iOS, 34ee6ab50a1809191741f240c1502ab5b14a56d4)
+11/12/2021 12:31:05 PM Connection inserter Start
+11/12/2021 12:31:05 PM Connection inserter create new device
+11/12/2021 12:31:05 PM Connection inserter device is iOS
+11/12/2021 12:31:05 PM Connection inserter AddService
+11/12/2021 12:31:05 PM Device manager add device SerialNumber: 34ee6ab50a1809191741f240c1502ab5b14a56d4
+11/12/2021 12:31:06 PM SetSystemSleep start
+11/12/2021 12:31:06 PM SetSystemSleep end
+11/12/2021 12:31:06 PM ConnectionScanTask start
+11/12/2021 12:31:06 PM ConnectionScanTask rescan start
+11/12/2021 12:31:06 PM Add device: 34ee6ab50a1809191741f240c1502ab5b14a56d4
+11/12/2021 12:31:06 PM ConnectionHub OnDeviceArrival:IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14100000
+11/12/2021 12:31:06 PM AddUSBConnection device: IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14100000
+11/12/2021 12:31:06 PM ...device: Apple iPhone insert...
+11/12/2021 12:31:06 PM ConnectionScanTask rescan end
+11/12/2021 12:31:06 PM ConnectionScanTask End
+11/12/2021 12:31:06 PM Connection begin IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14100000
+11/12/2021 12:31:06 PM [DC_UsbTask] try connect, Times: 1
+11/12/2021 12:31:06 PM [DC_IOSCOT] Initialize ios start.
+11/12/2021 12:31:06 PM [DC_Listener] DoCheckService result: True
+11/12/2021 12:31:06 PM [DC_IOSCOT] Initialize, ios service running
+11/12/2021 12:31:06 PM Connection step Checking
+11/12/2021 12:31:06 PM [DC_UsbTask] start wait system installing.
+11/12/2021 12:31:06 PM [DC_UsbTask] end wait system installing.
+11/12/2021 12:31:06 PM [DC_UsbTask] start wait FindExpectInterface
+11/12/2021 12:31:06 PM [DC_UsbTask] end wait FindExpectInterface.
+11/12/2021 12:31:06 PM [DC_UsbTask] start PrepareCheck.
+11/12/2021 12:31:06 PM [DC_UsbTask] end PrepareCheck.
+11/12/2021 12:31:06 PM [DC_UsbTask] start GetConnectTask
+11/12/2021 12:31:06 PM [DC-BSCOT] BC-DoConnection enter..
+11/12/2021 12:31:06 PM [DC-BSCOT] BC-GetWaitReadyTask skip..
+11/12/2021 12:31:06 PM [DC-BSCOT] BC-GetWaitReadyTask enter..
+11/12/2021 12:31:06 PM [DC-BSCOT] BC-WaitReadyWorker enter..
+11/12/2021 12:31:06 PM Connection step WaitReady
+11/12/2021 12:31:06 PM [DC_IOSCOT]DoWaitReady Start
+11/12/2021 12:31:06 PM [DC_IOSCOT] DoWaitReady before WaitDriverInstallDone
+11/12/2021 12:31:06 PM [DC_IOSCOT] DoWaitReady End WaitDriverInstallDone
+11/12/2021 12:31:06 PM [DC_IOSCOT] DoWaitReady before InitService
+11/12/2021 12:31:06 PM [DC_IOSCOT]InitService began
+11/12/2021 12:31:06 PM [DC_IOSCOT] Initialize ios start.
+11/12/2021 12:31:06 PM [DC_Listener] DoCheckService result: True
+11/12/2021 12:31:06 PM [DC_IOSCOT] Initialize, ios service running
+11/12/2021 12:31:06 PM [DC_IOSCOT] DoWaitReady end InitService
+11/12/2021 12:31:06 PM [DC_IOSCOT] start listen and wait.
+11/12/2021 12:31:06 PM [DC_IOSCOT] wait ready STEP_1
+11/12/2021 12:31:06 PM [DC_IOSCOT] service_listen: True
+11/12/2021 12:31:06 PM [DC_IOSCOT] wait ready STEP_2
+11/12/2021 12:31:06 PM [DC_IOSCOT] wait_device: True
+11/12/2021 12:31:06 PM [DC_IOSCOT] listen and wait both ok.
+11/12/2021 12:31:06 PM [DC_IOSCOT]InitService began
+11/12/2021 12:31:06 PM [DC_IOSCOT] Initialize ios start.
+11/12/2021 12:31:06 PM [DC_Listener] DoCheckService result: True
+11/12/2021 12:31:06 PM [DC_IOSCOT] Initialize, ios service running
+11/12/2021 12:31:06 PM [DC_IOSCOT]DoWaitReady End DeviceListener 
+11/12/2021 12:31:06 PM [DC_IOSCOT] start WaitReady Task
+11/12/2021 12:31:06 PM WaitReadyTask start
+11/12/2021 12:31:06 PM WaitReadyState AllReady
+11/12/2021 12:31:06 PM Before WaitReady
+11/12/2021 12:31:06 PM Start WaitReady
+11/12/2021 12:31:06 PM Before HavePairedRecord
+11/12/2021 12:31:06 PM After HavePairedRecord
+11/12/2021 12:31:07 PM Connection step Ready
+11/12/2021 12:31:07 PM [DC_IOSCOT]DoWaitReady End
+11/12/2021 12:31:07 PM [DC-BSCOT] BC-GetWaitReadyTask result: Online
+11/12/2021 12:31:07 PM Connection step StartSession
+11/12/2021 12:31:07 PM Connection step LoadInfo
+11/12/2021 12:31:07 PM Connection step Finished
+11/12/2021 12:31:07 PM [DC_UsbTask] end GetConnectTask : True
+11/12/2021 12:31:07 PM Manufacturer:Apple Inc.
+11/12/2021 12:31:07 PM Model:iPhone 6s
+11/12/2021 12:31:07 PM SerialNumber:F71QL94VGRXY
+11/12/2021 12:31:07 PM OSPlatform:iOS
+11/12/2021 12:31:07 PM OSVersion:14.8
+11/12/2021 12:31:07 PM Carrier:
+11/12/2021 12:31:07 PM Name:iPhone
+11/12/2021 12:31:07 PM Locale:en_KE
+11/12/2021 12:31:07 PM Connection end IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14100000 Online
+11/12/2021 12:31:07 PM Connection step Completed
+11/12/2021 12:31:09 PM ......device [iPhone] connected. info is... platform: iOS; version: 14.8; model: iPhone 6s; brand: ; manufacturer: Apple Inc.
+11/12/2021 12:31:12 PM Download Driver DB Ok, Version=4.0.1428646627
+11/12/2021 12:31:12 PM Replace DriverDb Ok
+11/12/2021 12:31:29 PM <CurriTunesLibPath> :/Users/air/Music/iTunes
+11/12/2021 12:31:29 PM iTunes library path :/Users/air/Music/iTunes/iTunes Library.itl
+11/12/2021 12:31:30 PM <TG_iTunes2Device> start load itunes....
+11/12/2021 12:31:30 PM <TG_iTunes2Device> end load itunes....
+11/12/2021 12:31:32 PM media count all
+11/12/2021 12:31:33 PM TrasferiTunesMediasToDevicePage CalSelectTrackSizeFinished MediaTotalSize =0,DeviceAvailableSize =42994950144, preleftSize =  52428800
+11/12/2021 12:31:58 PM iPhone MediaManage Begin Load
+11/12/2021 12:31:58 PM 'iTunes_Control/iTunes/Ringtones.plist' not exists
+11/12/2021 12:31:58 PM 'Purchases/Ringtones.plist' not exists
+11/12/2021 12:31:58 PM iPhone MediaManage End Load
+11/12/2021 12:31:58 PM 'iTunes_Control/iTunes/Ringtones.plist' not exists
+11/12/2021 12:31:58 PM 'Purchases/Ringtones.plist' not exists
+11/12/2021 12:31:58 PM <TG_Music_Main> load result: Success, ErrorCode: 0
+11/12/2021 12:32:18 PM iPhone MediaManage Begin Load
+11/12/2021 12:32:18 PM 'iTunes_Control/iTunes/Ringtones.plist' not exists
+11/12/2021 12:32:18 PM 'Purchases/Ringtones.plist' not exists
+11/12/2021 12:32:18 PM 'iTunes_Control/iTunes/Ringtones.plist' not exists
+11/12/2021 12:32:18 PM 'Purchases/Ringtones.plist' not exists
+11/12/2021 12:32:18 PM iPhone MediaManage End Load
+11/12/2021 12:32:18 PM <TG_Video_Main> load result: Success, ErrorCode: 0
+11/12/2021 12:32:25 PM iTunes library path :/Users/air/Music/iTunes/iTunes Library.itl
+11/12/2021 12:32:25 PM <TG_iTunes2Device> start load itunes....
+11/12/2021 12:32:25 PM <TG_iTunes2Device> end load itunes....
+11/12/2021 12:32:25 PM media count all
+11/12/2021 12:32:25 PM TrasferiTunesMediasToDevicePage CalSelectTrackSizeFinished MediaTotalSize =0,DeviceAvailableSize =42995113984, preleftSize =  52428800
+11/12/2021 12:32:29 PM TrasferiTunesMediasToDevicePage CalSelectTrackSizeFinished MediaTotalSize =0,DeviceAvailableSize =42995113984, preleftSize =  52428800
+11/12/2021 12:32:38 PM TrasferiTunesMediasToDevicePage CalSelectTrackSizeFinished MediaTotalSize =0,DeviceAvailableSize =42995113984, preleftSize =  52428800
+11/12/2021 12:33:09 PM TrasferiTunesMediasToDevicePage CalSelectTrackSizeFinished MediaTotalSize =0,DeviceAvailableSize =42995007488, preleftSize =  52428800
+11/12/2021 12:33:22 PM <DeviceManagerUtil_IsiPodNeedFix> enter....
+11/12/2021 12:33:22 PM <DeviceManagerUtil_IsiPodNeedFix> leave directly....
+11/12/2021 12:33:50 PM SetSystemSleep start
+11/12/2021 12:33:50 PM SetSystemSleep end
+11/12/2021 12:33:50 PM Device manager remove device SerialNumber: F71QL94VGRXY
+11/12/2021 12:33:50 PM Connection IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14100000 disposed.

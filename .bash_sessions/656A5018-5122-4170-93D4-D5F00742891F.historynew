@@ -1,0 +1,18 @@
+php -v
+brew install php@8.0
+php -v
+brew install wget
+sudo apt-get install nano
+sudo nano config.inc.php
+cd Documents/
+cd classwork/
+cd student-app/
+php artisan seve
+php artisan seve
+php artisan serve
+code .
+php artisan migrate
+code .
+code .
+php artisan serve
+php artisan migrate

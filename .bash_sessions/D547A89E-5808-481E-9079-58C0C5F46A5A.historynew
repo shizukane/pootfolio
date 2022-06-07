@@ -1,0 +1,22 @@
+cd Documents/
+mkdir classwork
+cd classwork/
+composer create project laravel/laravel student
+composer create-project laravel/laravel student-app
+ls
+cd student-app/
+php artisan serve
+code .
+code .
+php artisan migrate
+php artisan migrate
+php artisan migrate
+php artisan config:cache
+php artisan migrate
+php artisan serve
+php artisan route:cache
+php artisan migrate
+php artisan migrate
+php artisan migrate
+php artisan migrate
+sudo rm -rf ~/.bitnami
