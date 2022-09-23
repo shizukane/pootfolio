@@ -5,7 +5,7 @@ import json
 import datetime
 from .models import * 
 from .utils import cookieCart, cartData, guestOrder
-def profile(request):
+def accounts(request):
 
     return render(request, 'accounts.html')
 def store(request):
